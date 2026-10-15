@@ -1,0 +1,17 @@
+urban-cafe-abbottabad/
+├── index.html
+├── styles.css
+├── script.js
+├── menu.json
+├── robots.txt
+├── sitemap.xml
+├── README.md
+├── ROADMAP.md
+├── RULES.md
+├── PRD.md
+├── ARCHITECTURE.md
+├── DESIGN.md
+├── PHASES.md
+├── IMPLEMENTATION.md
+├── DEPLOYMENT.md
+└── MEMORY.md

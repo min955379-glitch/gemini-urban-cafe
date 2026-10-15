@@ -1,0 +1,303 @@
+{
+  "categories": [
+    "Popular",
+    "Soups",
+    "Urban Special Burger & Pizza Deals",
+    "Chinese",
+    "Appetizers",
+    "Chopsuey & Noodles",
+    "Platters",
+    "Salads",
+    "Pizza",
+    "Burgers",
+    "Sandwiches",
+    "Rice Corner",
+    "Chicken Speciality",
+    "Sea Foods",
+    "Pasta",
+    "Steaks",
+    "Cold Beverages"
+  ],
+  "items": [
+    {
+      "id": "pop-1",
+      "name": "Urban Special Pizza",
+      "category": "Popular",
+      "description": "Chicken fajita, onion, capsicum, jalapeno, marinara & mozzarella with a thin crust.",
+      "price": "Rs. 849",
+      "popular": true
+    },
+    {
+      "id": "pop-2",
+      "name": "Loaded Fries",
+      "category": "Popular",
+      "description": "Crispy golden fries topped with melted cheese, signature sauces, and jalapenos.",
+      "price": "Rs. 739",
+      "popular": true
+    },
+    {
+      "id": "pop-3",
+      "name": "Zinger Burger",
+      "category": "Popular",
+      "description": "Delicious crispy chicken patties, onions, herbs, cheese, lettuce & tomato.",
+      "price": "Rs. 659",
+      "popular": true
+    },
+    {
+      "id": "pop-4",
+      "name": "Parmesan Pasta",
+      "category": "Popular",
+      "description": "Rich pasta dish topped with rich cheese, cream, and aromatic herbs.",
+      "price": "Rs. 1,409",
+      "popular": true
+    },
+    {
+      "id": "soup-1",
+      "name": "Urban Special Soup",
+      "category": "Soups",
+      "description": "Chef's signature warm broth loaded with tender meat, vegetables, and savory spices.",
+      "price": "Rs. 439",
+      "popular": false
+    },
+    {
+      "id": "soup-2",
+      "name": "Hot & Sour Soup",
+      "category": "Soups",
+      "description": "Classic spicy and tangy broth with mushrooms, chicken strips, and egg drop.",
+      "price": "Rs. 359",
+      "popular": false
+    },
+    {
+      "id": "soup-3",
+      "name": "Chicken Corn Soup",
+      "category": "Soups",
+      "description": "Comforting creamy chicken and sweet corn soup served with soy vinegar.",
+      "price": "Rs. 359",
+      "popular": false
+    },
+    {
+      "id": "deal-1",
+      "name": "Urban Family Feast Deal",
+      "category": "Urban Special Burger & Pizza Deals",
+      "description": "2 Large Pizzas, 4 Zinger Burgers, 1.5L Drink, and large Loaded Fries.",
+      "price": "Rs. 4,500",
+      "popular": true
+    },
+    {
+      "id": "deal-2",
+      "name": "Couple Combo",
+      "category": "Urban Special Burger & Pizza Deals",
+      "description": "1 Medium Pizza, 2 Burgers or Pastas, and 2 Mint Margaritas.",
+      "price": "Rs. 2,299",
+      "popular": false
+    },
+    {
+      "id": "chin-1",
+      "name": "Chicken Manchurian",
+      "category": "Chinese",
+      "description": "Tender chicken chunks in a rich, tangy garlic-soy sauce, served with egg fried rice.",
+      "price": "Rs. 1,349",
+      "popular": true
+    },
+    {
+      "id": "chin-2",
+      "name": "Chicken Chilli Dry",
+      "category": "Chinese",
+      "description": "Crispy sliced chicken sautéed with green chillies, garlic, and soy sauce, served with rice.",
+      "price": "Rs. 1,349",
+      "popular": true
+    },
+    {
+      "id": "chin-3",
+      "name": "Chicken Cashew Nut",
+      "category": "Chinese",
+      "description": "Stir-fried chicken with roasted cashew nuts, vegetables, and savory sauce.",
+      "price": "Rs. 1,349",
+      "popular": false
+    },
+    {
+      "id": "app-1",
+      "name": "Buffalo Hot Wings",
+      "category": "Appetizers",
+      "description": "5 pieces of crispy fried wings tossed in fiery Buffalo hot sauce.",
+      "price": "Rs. 949",
+      "popular": true
+    },
+    {
+      "id": "app-2",
+      "name": "Dhaka Chicken",
+      "category": "Appetizers",
+      "description": "Spicy marinated chicken served with tangy sauce and fresh herbs, perfect for sharing.",
+      "price": "Rs. 1,019",
+      "popular": false
+    },
+    {
+      "id": "app-3",
+      "name": "Finger Fish",
+      "category": "Appetizers",
+      "description": "6 pieces of seasoned fish strips served with tartar dipping sauce.",
+      "price": "Rs. 1,489",
+      "popular": false
+    },
+    {
+      "id": "nood-1",
+      "name": "Urban Special Chow Mein",
+      "category": "Chopsuey & Noodles",
+      "description": "Stir-fried noodles with crisp vegetables, signature sauce, and a mix of proteins.",
+      "price": "Rs. 1,279",
+      "popular": true
+    },
+    {
+      "id": "nood-2",
+      "name": "Chicken Chow Mein",
+      "category": "Chopsuey & Noodles",
+      "description": "Stir-fried noodles with fresh vegetables and tender chicken chunks.",
+      "price": "Rs. 1,079",
+      "popular": false
+    },
+    {
+      "id": "plat-1",
+      "name": "Urban Multi-Grill Platter",
+      "category": "Platters",
+      "description": "Assorted chicken steaks, wings, sausage, garlic rice, fries, and mushroom sauce.",
+      "price": "Rs. 2,899",
+      "popular": true
+    },
+    {
+      "id": "salad-1",
+      "name": "Smoked Chicken Pasta Salad",
+      "category": "Salads",
+      "description": "Tender smoked chicken tossed with pasta, fresh greens, and house dressing.",
+      "price": "Rs. 649",
+      "popular": true
+    },
+    {
+      "id": "pizz-1",
+      "name": "Chicken Tikka Pizza",
+      "category": "Pizza",
+      "description": "The classic pizza seasoned with chicken tikka chunks, onion, and mozzarella cheese.",
+      "price": "Rs. 769",
+      "popular": false
+    },
+    {
+      "id": "pizz-2",
+      "name": "Fajita Pizza",
+      "category": "Pizza",
+      "description": "Spicy chicken fajita, capsicum, onions, and melted cheese.",
+      "price": "Rs. 769",
+      "popular": false
+    },
+    {
+      "id": "burg-1",
+      "name": "Jalapeno Cheese Burger",
+      "category": "Burgers",
+      "description": "Juicy beef or chicken patty with spicy jalapenos, melted cheese, and signature sauce.",
+      "price": "Rs. 899",
+      "popular": true
+    },
+    {
+      "id": "burg-2",
+      "name": "Fish Hunter Burger",
+      "category": "Burgers",
+      "description": "High quality fish fillet cooked with cheese and lettuce on a multigrain bun.",
+      "price": "Rs. 999",
+      "popular": false
+    },
+    {
+      "id": "sand-1",
+      "name": "Urban Club Sandwich",
+      "category": "Sandwiches",
+      "description": "Triple-decker toasted sandwich layered with grilled chicken, egg, cheese, and fries.",
+      "price": "Rs. 799",
+      "popular": false
+    },
+    {
+      "id": "rice-1",
+      "name": "Urban Special Rice",
+      "category": "Rice Corner",
+      "description": "Chef special flavorful fried rice with mixed meats and spices (Two person serving).",
+      "price": "Rs. 679",
+      "popular": false
+    },
+    {
+      "id": "rice-2",
+      "name": "Egg Fried Rice",
+      "category": "Rice Corner",
+      "description": "Classic wok-tossed fried rice with eggs and vegetables (Two person serving).",
+      "price": "Rs. 479",
+      "popular": false
+    },
+    {
+      "id": "chicken-1",
+      "name": "Monterrey Chicken",
+      "category": "Chicken Speciality",
+      "description": "Grilled chicken breast topped with mushrooms, cheese, and honey mustard sauce.",
+      "price": "Rs. 1,450",
+      "popular": true
+    },
+    {
+      "id": "chicken-2",
+      "name": "Wild Mushroom Chicken",
+      "category": "Chicken Speciality",
+      "description": "Tender chicken in a rich, creamy wild mushroom reduction sauce.",
+      "price": "Rs. 1,450",
+      "popular": false
+    },
+    {
+      "id": "sea-1",
+      "name": "Fish & Chips",
+      "category": "Sea Foods",
+      "description": "Battered crispy fish served with golden fries and tartar sauce.",
+      "price": "Rs. 1,455",
+      "popular": false
+    },
+    {
+      "id": "pasta-1",
+      "name": "Creamy Alfredo Pasta",
+      "category": "Pasta",
+      "description": "Fettuccine pasta tossed in a rich garlic and parmesan cream sauce with grilled chicken.",
+      "price": "Rs. 1,015",
+      "popular": true
+    },
+    {
+      "id": "pasta-2",
+      "name": "Moroccan Chicken Pasta",
+      "category": "Pasta",
+      "description": "Spicy Moroccan spiced chicken and pasta in a rich tomato cream sauce.",
+      "price": "Rs. 967",
+      "popular": false
+    },
+    {
+      "id": "steak-1",
+      "name": "Moroccan Steak",
+      "category": "Steaks",
+      "description": "Tender grilled chicken or beef steak smothered in spicy Moroccan sauce with sides.",
+      "price": "Rs. 1,399",
+      "popular": true
+    },
+    {
+      "id": "steak-2",
+      "name": "Jalapeno Steak",
+      "category": "Steaks",
+      "description": "Grilled meat topped with fiery jalapeno sauce, served with mashed potatoes and veggies.",
+      "price": "Rs. 1,399",
+      "popular": false
+    },
+    {
+      "id": "bev-1",
+      "name": "Mint Margarita",
+      "category": "Cold Beverages",
+      "description": "Refreshing crushed ice blended with fresh mint, lime, and sprite.",
+      "price": "Rs. 399",
+      "popular": true
+    },
+    {
+      "id": "bev-2",
+      "name": "Oreo Chocolate Shake",
+      "category": "Cold Beverages",
+      "description": "Thick creamy milkshake blended with Oreo cookies and chocolate syrup.",
+      "price": "Rs. 450",
+      "popular": false
+    }
+  ]
+}
